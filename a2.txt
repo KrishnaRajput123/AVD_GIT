@@ -1,1 +1,1 @@
-Updated file for commit all
+Updated file for the diff command

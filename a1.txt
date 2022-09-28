@@ -1,1 +1,1 @@
-demo file updated a file
+demo file updated for git diff command
