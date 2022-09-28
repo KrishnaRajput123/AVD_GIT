@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gygugg
+=======
+gyguggjuguygs
+>>>>>>> avd_1
