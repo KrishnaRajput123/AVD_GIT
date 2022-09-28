@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-gygugg
-=======
-gyguggjuguygs
->>>>>>> avd_1
+Hi
+
